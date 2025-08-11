@@ -1,4 +1,3 @@
-(base) [arpit@gandalf kraken2_pigz_pipeline]$ cat kraken2_pigz_arpit
 #!/usr/bin/env perl
 
 # Copyright 2013-2023, Derrick Wood <dwood@cs.jhu.edu>
