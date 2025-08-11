@@ -17,7 +17,7 @@ A modified **Kraken2** wrapper that uses **pigz** for parallel gzip decompressio
 chmod +x kraken2_pigz_boost_arpit
 
 ```
-## Pre Requiste 
+## Prerequisite
 
 pigz: Install from [conda install pigz ](https://github.com/madler/pigz)
 
